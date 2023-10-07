@@ -1,0 +1,15 @@
+[submodule "CC3S2"]
+	path = CC3S2
+	url = https://github.com/miguelvega/CC3S2.git
+[submodule "HolaRuby"]
+	path = HolaRuby
+	url = https://github.com/miguelvega/HolaRuby.git
+[submodule "Http-Uri"]
+	path = Http-Uri
+	url = https://github.com/miguelvega/Http-Uri.git
+[submodule "PC1_parte1_CC3S2"]
+	path = PC1_parte1_CC3S2
+	url = https://github.com/miguelvega/PC1_parte1_CC3S2.git
+[submodule "PC1_Parte2_CC3S2"]
+	path = PC1_Parte2_CC3S2
+	url = https://github.com/miguelvega/PC1_Parte2_CC3S2.git
