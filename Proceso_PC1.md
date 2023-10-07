@@ -353,3 +353,44 @@ A pesar que me sale las siguientes advertencias, ahora si podemos desplegar nues
 
 ![Captura de pantalla de 2023-10-06 02-12-05](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/53db665e-ca0c-41de-9106-44a9ebd35a5d)
 
+
+
+![Captura de pantalla de 2023-10-06 02-12-19](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/7a97cd1c-61ec-4dd9-b0c3-7a92bf4adb68)
+![Captura de pantalla de 2023-10-06 12-12-12](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/1cc66529-30d6-4768-ae3b-2a342d00cf75)
+
+![Captura de pantalla de 2023-10-06 12-12-36](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/0d791af5-3068-4100-867d-658ad5c1b0e7)
+
+![Captura de pantalla de 2023-10-06 12-12-50](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/a1dbf6cf-2303-4805-92bd-a5e81d479c3e)
+
+![Captura de pantalla de 2023-10-06 12-13-00](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/2c75dfd6-9e2d-45cb-9bf7-794b1a99bcb9)
+
+![Captura de pantalla de 2023-10-06 12-14-16](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/fe0bd166-93ae-41b5-a514-848beda55fdd)
+
+![Captura de pantalla de 2023-10-06 12-14-24](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/dea4a5f8-bfe4-425c-85d4-7f75f4a9bc52)
+
+![Captura de pantalla de 2023-10-06 02-12-19](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/7a97cd1c-61ec-4dd9-b0c3-7a92bf4adb68)
+![Captura de pantalla de 2023-10-06 12-12-12](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/1cc66529-30d6-4768-ae3b-2a342d00cf75)
+
+![Captura de pantalla de 2023-10-06 12-12-36](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/0d791af5-3068-4100-867d-658ad5c1b0e7)
+
+![Captura de pantalla de 2023-10-06 12-12-50](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/a1dbf6cf-2303-4805-92bd-a5e81d479c3e)
+
+![Captura de pantalla de 2023-10-06 12-13-00](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/2c75dfd6-9e2d-45cb-9bf7-794b1a99bcb9)
+
+![Captura de pantalla de 2023-10-06 12-14-16](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/fe0bd166-93ae-41b5-a514-848beda55fdd)
+
+![Captura de pantalla de 2023-10-06 12-14-24](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/dea4a5f8-bfe4-425c-85d4-7f75f4a9bc52)
+
+![Captura de pantalla de 2023-10-06 02-12-19](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/7a97cd1c-61ec-4dd9-b0c3-7a92bf4adb68)
+![Captura de pantalla de 2023-10-06 12-12-12](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/1cc66529-30d6-4768-ae3b-2a342d00cf75)
+
+![Captura de pantalla de 2023-10-06 12-12-36](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/0d791af5-3068-4100-867d-658ad5c1b0e7)
+
+![Captura de pantalla de 2023-10-06 12-12-50](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/a1dbf6cf-2303-4805-92bd-a5e81d479c3e)
+
+![Captura de pantalla de 2023-10-06 12-13-00](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/2c75dfd6-9e2d-45cb-9bf7-794b1a99bcb9)
+
+![Captura de pantalla de 2023-10-06 12-14-16](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/fe0bd166-93ae-41b5-a514-848beda55fdd)
+
+![Captura de pantalla de 2023-10-06 12-14-24](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/dea4a5f8-bfe4-425c-85d4-7f75f4a9bc52)
+
