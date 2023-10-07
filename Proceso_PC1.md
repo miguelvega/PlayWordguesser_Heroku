@@ -198,7 +198,7 @@ A pesar que me sale las siguientes advertencias, ahora si podemos desplegar nues
 
 ![Captura de pantalla de 2023-10-05 02-42-18](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/9b838a91-49d4-4789-81fd-2e0e2cf6045e)
 
-## Parte 2: RESTful para Wordguesser
+## Parte 2: RESTful para Wordguesser y Parte 3: Conexión de WordGuesserGame a Sinatra
 
 
 ![Captura de pantalla de 2023-10-05 16-31-09](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/1d7f224b-cb26-4e90-8f42-dc4ab0db8096)
