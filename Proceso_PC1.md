@@ -234,3 +234,23 @@ A pesar que me sale las siguientes advertencias, ahora si podemos desplegar nues
 
 ## Parte 4: Cucumber
 
+
+![Captura de pantalla de 2023-10-05 23-05-35](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/7d825ea9-d26c-49ef-afd2-2e1d4f25b4eb)
+
+![Captura de pantalla de 2023-10-05 23-05-47](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/24303a99-1353-4d27-bf70-e046f5f1b4a8)
+
+![Captura de pantalla de 2023-10-05 23-39-30](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/e03001b8-4cf6-464a-b5c5-ad75e2974fda)
+
+![Captura de pantalla de 2023-10-05 23-40-45](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/6ef7546f-0a1e-4ff8-97be-33b9a6034e77)
+
+![Captura de pantalla de 2023-10-05 23-41-03](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/0ccf5656-ae92-4b01-88b8-eeda46070c81)
+
+![Captura de pantalla de 2023-10-05 23-41-21](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/aa723b1c-8501-4818-bbf7-89010cae6491)
+
+
+![Captura de pantalla de 2023-10-05 23-41-47](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/387cafb6-8149-4f58-96bb-6832333ab669)
+
+
+
+
+
