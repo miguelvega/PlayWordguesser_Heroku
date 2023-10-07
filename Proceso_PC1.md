@@ -394,3 +394,6 @@ A pesar que me sale las siguientes advertencias, ahora si podemos desplegar nues
 
 ![Captura de pantalla de 2023-10-06 12-14-24](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/dea4a5f8-bfe4-425c-85d4-7f75f4a9bc52)
 
+## Parte Final: Funcionamiento del App
+
+Ver el siguiente video:  [Hazme clic](https://drive.google.com/file/d/1ZEUaz_N7aFmJWA3ptxWQ5qhNLUm_-x95/view?t=2s)
