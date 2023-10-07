@@ -92,7 +92,7 @@
 
 ![Captura de pantalla de 2023-10-04 15-47-32](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/24afa980-fa48-4290-9831-bbe522d6f873)
 
-Sin embargo, debido a problemas con la ubicacion del .git vamos a cambiar de directorio, copiando todas las carpetas y archivos contenido dentro la carpeta PC1 a App_SaaS_PC1
+Sin embargo, debido a problemas con la ubicacion del .git vamos a cambiar de directorio, copiando todas las carpetas y archivos a un nuevo directorio.
 
 
 ![Captura de pantalla de 2023-10-04 15-57-17](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/d0bf8c5f-9840-47d6-a557-09f6960726a2)
