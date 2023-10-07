@@ -144,6 +144,8 @@ A pesar que me sale las siguientes advertencias, ahora si podemos desplegar nues
 
 ![Captura de pantalla de 2023-10-04 16-20-07](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/397fae6d-4ddb-46c2-9692-f42b94ac7ce6)
 
+# PC1_parte2
+
 
 ## Parte 1: Wordguesser
 
