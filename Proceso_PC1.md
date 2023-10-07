@@ -186,7 +186,9 @@ A pesar que me sale las siguientes advertencias, ahora si podemos desplegar nues
 
 ![Captura de pantalla de 2023-10-05 02-40-19](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/b67c99b6-8161-4395-9953-77f777ecb8b1)
 
-### Depuración
+<br>
+<br>
+
 
 ![Captura de pantalla de 2023-10-05 02-42-18](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/9b838a91-49d4-4789-81fd-2e0e2cf6045e)
 
