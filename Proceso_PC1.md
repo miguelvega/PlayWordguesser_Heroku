@@ -181,10 +181,54 @@ A pesar que me sale las siguientes advertencias, ahora si podemos desplegar nues
 
 ![Captura de pantalla de 2023-10-05 02-39-03](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/79af0a6e-2f30-4e63-87e5-d94ed2b33bcf)
 
-## Parte 2: RESTful para Wordguesser
 
 ![Captura de pantalla de 2023-10-05 02-39-42](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/992e97d3-ad23-4e2f-98c5-2001586a59a3)
 
 ![Captura de pantalla de 2023-10-05 02-40-19](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/b67c99b6-8161-4395-9953-77f777ecb8b1)
 
+### Depuración
+
 ![Captura de pantalla de 2023-10-05 02-42-18](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/9b838a91-49d4-4789-81fd-2e0e2cf6045e)
+
+## Parte 2: RESTful para Wordguesser
+
+
+![Captura de pantalla de 2023-10-05 16-31-09](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/1d7f224b-cb26-4e90-8f42-dc4ab0db8096)
+
+![Captura de pantalla de 2023-10-05 16-31-29](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/0daff57d-b911-450b-a1e5-652ae145b30b)
+
+![Captura de pantalla de 2023-10-05 16-31-38](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/b0bc9273-1b10-4206-8b67-dd9d9a507b66)
+
+![Captura de pantalla de 2023-10-05 16-31-49](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/c431dbcd-b851-4c5a-b348-1c7bf71a3ace)
+
+![Captura de pantalla de 2023-10-05 16-31-59](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/46852f7b-ebff-4f55-bbe4-d1dcdec63e02)
+
+![Captura de pantalla de 2023-10-05 16-33-33](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/c1f0c29c-37bd-484a-ac48-7c3dddc73bc5)
+
+![Captura de pantalla de 2023-10-05 16-33-43](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/05b4e224-0e46-4012-953c-a29edf08627b)
+
+![Captura de pantalla de 2023-10-05 18-33-26](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/bf195d25-940e-4ebd-82a0-3219df0b4ba9)
+
+![Captura de pantalla de 2023-10-05 18-33-50](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/a2d0ddff-1aa5-4076-839f-242120ac603c)
+
+![Captura de pantalla de 2023-10-05 18-34-07](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/9ea24b9e-fa18-445d-a670-4ade912c5fd9)
+
+![Captura de pantalla de 2023-10-05 18-34-57](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/72ee755a-7408-4e69-a3c3-1b06143054f0)
+
+![Captura de pantalla de 2023-10-05 18-38-35](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/1a89ef6f-25e9-4672-b6e1-bcbfd773fedf)
+
+![Captura de pantalla de 2023-10-05 18-41-50](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/65b4d474-6523-42a2-a5bf-6d748928988a)
+
+![Captura de pantalla de 2023-10-05 18-42-16](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/fb7456c5-b825-4bfd-bf21-589b1ffd815f)
+
+![Captura de pantalla de 2023-10-05 18-42-54](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/d7fd85ee-98a9-4974-a9f5-fdbe72cbcd36)
+
+![Captura de pantalla de 2023-10-05 18-43-35](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/14452c90-edc9-4a6e-bc8e-62634577e917)
+
+![Captura de pantalla de 2023-10-05 18-43-44](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/9038065a-6b6f-49c6-b79c-eb6fb4752413)
+
+
+
+![Captura de pantalla de 2023-10-05 18-46-57](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/7d0ea365-fb2f-4feb-8575-b9cbf29ce4ef)
+
+
