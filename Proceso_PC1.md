@@ -1,4 +1,4 @@
-# PC1
+## PC1_parte1
 
 ![Captura de pantalla de 2023-10-04 00-46-42](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/7f672db1-bdb2-4e96-8c6d-34f338628b36)
 ![Captura de pantalla de 2023-10-04 00-46-42](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/7f672db1-bdb2-4e96-8c6d-34f338628b36)
