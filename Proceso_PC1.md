@@ -112,12 +112,12 @@ Parte 2:  [Hazme clic](https://drive.google.com/file/d/1VyBN9UVJWfGwTsvkg7SRt0wJ
 
 A pesar que me sale las siguientes advertencias, ahora si podemos desplegar nuestra aplicacion
 
-![Captura de pantalla de 2023-10-04 16-40-07](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/3b67f6c5-e623-4674-ac95-733d9e8deb36)
+![Captura de pantalla de 2023-10-04 16-40-07](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/118cec43-b289-438f-9a10-ea88c3d000c8)
 
+![Captura de pantalla de 2023-10-04 16-19-56](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/8e2fb304-eeee-4d8d-ac33-b35c1cf33d32)
 
-![Captura de pantalla de 2023-10-04 16-19-56](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/d51b2b0e-d43d-478b-9025-e14151104000)
+![Captura de pantalla de 2023-10-04 16-20-07](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/a79e9f26-20f5-450f-a5e0-7f12f68750ad)
 
-![Captura de pantalla de 2023-10-04 16-20-07](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/397fae6d-4ddb-46c2-9692-f42b94ac7ce6)
 
 # PC1_parte2
 
