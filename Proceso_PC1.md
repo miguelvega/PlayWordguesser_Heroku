@@ -78,14 +78,16 @@ Parte 2:  [Hazme clic](https://drive.google.com/file/d/1VyBN9UVJWfGwTsvkg7SRt0wJ
 
 ## Implementar en Heroku
 
-![Instalacion_Heroku](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/ec43326a-7f62-4c1f-ae5f-b2281a4b9904)
 
 
-![Captura de pantalla de 2023-10-04 15-45-34](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/6595c5bb-75c0-435a-8c3a-2b10be0cf064)
+![Instalacion_Heroku](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/b7c4986b-1665-4dba-9459-c47111339018)
 
-![Captura de pantalla de 2023-10-04 15-45-48](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/e0803bbb-eb46-430b-9921-6b3746842a04)
+![Captura de pantalla de 2023-10-04 15-45-34](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/f3840789-52dc-4347-bd44-489bf1bb5690)
 
-![Captura de pantalla de 2023-10-04 15-47-32](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/24afa980-fa48-4290-9831-bbe522d6f873)
+![Captura de pantalla de 2023-10-04 15-45-48](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/9642ecbd-8f8c-4080-a1e1-c4e8dc02b8cf)
+
+![Captura de pantalla de 2023-10-04 15-47-32](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/74105adc-dee9-46a6-8f83-d5697baaa8ed)
+
 
 Sin embargo, debido a problemas con la ubicacion del .git vamos a cambiar de directorio, copiando todas las carpetas y archivos a un nuevo directorio.
 
