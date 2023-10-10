@@ -160,41 +160,36 @@ A pesar que me sale las siguientes advertencias, ahora si podemos desplegar nues
 
 ### Desarrollo de Wordguesser usando TDD y Guard
 
-![Captura de pantalla de 2023-10-04 18-57-06](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/95c0eff4-fd42-43f1-82a8-0f18c2bccef5)
 
-![Captura de pantalla de 2023-10-05 02-19-21](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/0be069d8-c6a7-4884-b3d9-df920f38c469)
+![Captura de pantalla de 2023-10-04 18-57-06](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/a07210d8-5764-4ee8-abd3-326db42ec108)
 
-![Captura de pantalla de 2023-10-05 02-19-55](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/38453380-ed7b-4e4c-bacc-56c2a52efb7f)
+![Captura de pantalla de 2023-10-05 02-19-21](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/4dc1f605-86f9-441f-b7a8-5b4af92974df)
 
-![Captura de pantalla de 2023-10-05 02-20-34](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/41a5b37d-816b-4e0a-950d-a383d4b2f362)
+![Captura de pantalla de 2023-10-05 02-19-55](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/f68d2942-29c6-4211-9cf7-eb794939d22f)
 
-![Captura de pantalla de 2023-10-05 02-20-49](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/2a8067bb-3af5-4c6d-8bad-8c2b8f98001c)
+![Captura de pantalla de 2023-10-05 02-20-34](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/7990a17f-c5b0-4de4-b4b0-93804002fb05)
 
-![Captura de pantalla de 2023-10-05 02-20-58](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/fe7e6d3b-0e29-40f8-a561-c6b9b671b4c8)
+![Captura de pantalla de 2023-10-05 02-20-49](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/e3853ad9-181c-46b4-9114-2d862261a155)
 
-![Captura de pantalla de 2023-10-05 02-22-27](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/da0f5742-04ac-499a-bb10-26f40533d9b3)
+![Captura de pantalla de 2023-10-05 02-20-58](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/3c8c28ca-2119-417b-a48f-a5c2784efc6d)
 
+![Captura de pantalla de 2023-10-05 02-22-27](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/6258ff4f-13d3-491d-8937-3604e5f155fa)
 
+![Captura de pantalla de 2023-10-05 02-23-13](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/ce0b083e-4f7c-4a0b-860f-9acb2f65c35a)
 
+![Captura de pantalla de 2023-10-05 02-23-59](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/da632b11-cd2a-4d6d-a490-eba0590f0ce6)
 
-![Captura de pantalla de 2023-10-05 02-23-13](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/f15464e8-ec4f-4325-95ba-2a5919929440)
+![Captura de pantalla de 2023-10-05 02-38-51](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/971d5e63-ce96-49e0-85c5-b7c4f53bdc8b)
 
-![Captura de pantalla de 2023-10-05 02-23-59](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/4715c4ab-067d-4577-bfd4-b8183627c842)
+![Captura de pantalla de 2023-10-05 02-39-03](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/2f27eeb7-317d-4774-95b5-0722c325f9ee)
 
-![Captura de pantalla de 2023-10-05 02-38-51](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/5bca6168-713c-4c9a-9336-52bff8c6e2da)
+![Captura de pantalla de 2023-10-05 02-39-42](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/0f14d255-0ccd-4022-bf25-ec3f13c75dcd)
 
-![Captura de pantalla de 2023-10-05 02-39-03](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/79af0a6e-2f30-4e63-87e5-d94ed2b33bcf)
+![Captura de pantalla de 2023-10-05 02-40-19](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/9ee42264-2814-40a3-bc55-9104e1873dd8)
 
-
-![Captura de pantalla de 2023-10-05 02-39-42](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/992e97d3-ad23-4e2f-98c5-2001586a59a3)
-
-![Captura de pantalla de 2023-10-05 02-40-19](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/b67c99b6-8161-4395-9953-77f777ecb8b1)
-
-<br>
-<br>
+![Captura de pantalla de 2023-10-05 02-42-18](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/e788e74f-6c7d-474a-a7f8-8039dd3ec279)
 
 
-![Captura de pantalla de 2023-10-05 02-42-18](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/9b838a91-49d4-4789-81fd-2e0e2cf6045e)
 
 ## Parte 2: RESTful para Wordguesser y Parte 3: Conexión de WordGuesserGame a Sinatra
 
