@@ -1,35 +1,34 @@
 # PC1_parte1
 
-![Captura de pantalla de 2023-10-04 00-46-42](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/7f672db1-bdb2-4e96-8c6d-34f338628b36)
+![Captura de pantalla de 2023-10-04 00-46-42](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/088507ab-606b-491c-bd05-bb8c1a3dbaef)
 
-![Captura de pantalla de 2023-10-03 22-00-18](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/4d2a44be-8a0f-4c84-a242-849010efa983)
+![Captura de pantalla de 2023-10-03 22-00-18](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/fc66e44b-85c9-42d8-89db-f9a4aba0e7cb)
 
 ## Creación y versionado de una aplicación SaaS sencilla
 
-![Captura de pantalla de 2023-10-03 22-16-37](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/88b5a8ad-8b6d-4a48-b29b-c0f91ff06db7)
+![Captura de pantalla de 2023-10-03 22-16-37](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/10050bf0-fd1b-43a7-960e-486c537166cf)
 
-<p align="center">
-  <img src="https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/a6c24cbf-3c1a-4216-b55d-2e5df85f57fe" alt="Imagen 1" width="40%" />
-</p>
+
+![Captura de pantalla de 2023-10-03 22-11-36](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/97e377cd-6162-459e-9da4-c9a2f15abfef)
 
 ## Correr el Bundler
 
-
-![Captura de pantalla de 2023-10-03 22-17-00](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/e9ea471d-cfaa-4945-8726-cb6712a00f23)
-
-<br>
-
-<p align="center">
-  <img src="https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/169beefb-6a6c-454f-8d51-fc46dbc49f14" alt="Imagen 1" width="40%" />
-</p>
+![Captura de pantalla de 2023-10-03 22-17-00](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/b94f0afb-4f7e-4c1d-9386-5b8cc9739e3e)
 
 <br>
 
-![Captura de pantalla de 2023-10-03 22-29-08](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/a60b5b7c-c890-447c-b13e-ed23154c9daf)
 
-![Captura de pantalla de 2023-10-03 22-29-25](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/74f4d858-42c6-4d75-b001-0789d9804f17)
+![Captura de pantalla de 2023-10-03 22-08-34](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/12ecf8db-fcef-4a18-bdc9-f27380ea270c)
 
-![Captura de pantalla de 2023-10-03 22-29-35](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/e61bfdf8-3f6a-42d5-9fb0-82bdaa511277)
+<br>
+
+
+![Captura de pantalla de 2023-10-03 22-29-08](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/84bf686a-bb95-43c2-884e-30090b0cdc8c)
+
+![Captura de pantalla de 2023-10-03 22-29-25](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/82be47ff-f4ac-4dbe-bcf2-35ae427657f5)
+
+![Captura de pantalla de 2023-10-03 22-29-35](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/c155feeb-63cb-4ada-9951-38a28bf9bafc)
+
 
 ## Crea una aplicación SaaS sencilla con Sinatra
 
