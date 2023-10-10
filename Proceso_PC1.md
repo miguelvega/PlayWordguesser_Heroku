@@ -32,48 +32,38 @@
 
 ## Crea una aplicación SaaS sencilla con Sinatra
 
-![Captura de pantalla de 2023-10-03 22-29-48](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/83a5db26-34f7-4bd6-a87f-de6ac71660fa)
+![Captura de pantalla de 2023-10-03 22-29-48](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/985974bc-4c5a-4280-b1e2-a6fadcacfa51)
 
-![Captura de pantalla de 2023-10-03 22-30-29](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/ce39d499-583c-401b-b2e9-25634080e420)
+![Captura de pantalla de 2023-10-03 22-30-29](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/fc907cfa-0da7-4e6f-b316-0f3c9ae3d3ed)
 
-![Captura de pantalla de 2023-10-03 22-30-48](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/0b914916-0017-4f78-83ae-ee01c1d24ab1)
+![Captura de pantalla de 2023-10-03 22-30-48](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/5848468e-c149-4724-921b-c54c4af18a0b)
 
+![Captura de pantalla de 2023-10-03 22-31-22](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/275e3c9e-004b-4c57-a903-1ee615fb0908)
 
-<p align="center">
-  <img src="https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/96b80041-1f78-4d5e-be95-909991d798a6" alt="Imagen 1" width="25%" />
-</p>
+![Captura de pantalla de 2023-10-03 22-33-07](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/42bc6c0b-073c-4377-815b-b2c307b90ea4)
 
-<p align="center">
-  <img src="https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/02f9796d-075a-486d-a778-f20c0dbff192" alt="Imagen 1" width="50%" />
-</p>
+![Captura de pantalla de 2023-10-03 22-34-57](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/8b550907-309e-49dd-86a5-dd69c865a2cc)
 
 
-![Captura de pantalla de 2023-10-03 22-34-57](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/f37b85f3-591c-4bf3-aaa2-96651f92a26d)
 
-<p align="center">
-  <img src="https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/d6a25959-9991-4dd0-ab20-2f817515ef41" alt="Imagen 1" width="50%" />
-</p>
+![Captura de pantalla de 2023-09-28 22-41-40](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/7cfa48fd-59b3-4bd7-a808-b1f16ecfd3fb)
 
 
-![Captura de pantalla de 2023-10-03 22-35-34](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/b59738f0-9195-4a73-89d6-88b9f8f2d18e)
-
+![Captura de pantalla de 2023-10-03 22-35-34](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/7d23f663-3c78-49dc-9dc4-dc881ded2e14)
 
 
 <br>
 
-<p align="center">
-  <img src="https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/e866c4d4-a88a-4d0e-8496-fbab2f4db630" alt="Imagen 1" width="50%" />
-</p>
 
-![Captura de pantalla de 2023-10-04 00-25-09](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/83081b4b-1eac-4386-b62d-41295f23d7bf)
+![Captura de pantalla de 2023-09-28 22-45-57](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/ad6ed848-4673-4eb6-9c8f-ad9b17781e76)
 
 
-<p align="center">
-  <img src="https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/37103be3-c358-4fe4-8527-dcf6202e0beb" alt="Imagen 1" width="50%" />
-</p>
 
+![Captura de pantalla de 2023-10-04 00-25-09](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/4edca659-d53e-498e-b351-0c18ea73c96b)
 
-![Captura de pantalla de 2023-10-04 00-25-44](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/ba34b5ac-b647-4ce6-8de7-ded487e22d06)
+![Captura de pantalla de 2023-09-28 22-51-16](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/3a3d422f-8878-481b-bff7-2ff3098c93aa)
+
+![Captura de pantalla de 2023-10-04 00-25-44](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/164d8f24-8031-4c1c-8fdf-8c5ebb80d2fb)
 
 ## Modifica la aplicación
 
