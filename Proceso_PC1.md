@@ -154,10 +154,9 @@ A pesar que me sale las siguientes advertencias, ahora si podemos desplegar nues
 
 ## Parte 1: Wordguesser
 
+![Captura de pantalla de 2023-10-04 18-56-34](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/392f76c1-685c-417e-b8f5-05307bd4b9ab)
 
-![Captura de pantalla de 2023-10-04 18-56-34](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/e5aa9dcc-45ea-4c46-8865-862f0f03f8de)
-
-![Captura de pantalla de 2023-10-04 18-56-46](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/0a6ebeb3-7ef0-42c7-8598-27aa4076030b)
+![Captura de pantalla de 2023-10-04 18-56-46](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/cc1b7e1f-acbc-4366-952c-7d14b39dccbb)
 
 ### Desarrollo de Wordguesser usando TDD y Guard
 
