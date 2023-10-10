@@ -79,58 +79,36 @@ Parte 2:  [Hazme clic](https://drive.google.com/file/d/1VyBN9UVJWfGwTsvkg7SRt0wJ
 ## Implementar en Heroku
 
 
+![Captura de pantalla de 2023-10-04 15-57-17](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/137e612f-45c6-4a96-86df-36585f59e9a8)
 
-![Instalacion_Heroku](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/b7c4986b-1665-4dba-9459-c47111339018)
+![Captura de pantalla de 2023-10-04 15-57-28](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/ed13ba59-e6d7-4b1b-8570-ec95a16a0186)
 
-![Captura de pantalla de 2023-10-04 15-45-34](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/f3840789-52dc-4347-bd44-489bf1bb5690)
+![Captura de pantalla de 2023-10-04 15-58-05](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/f535cd4e-c28f-4953-9d54-5b04f6714686)
 
-![Captura de pantalla de 2023-10-04 15-45-48](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/9642ecbd-8f8c-4080-a1e1-c4e8dc02b8cf)
+![Captura de pantalla de 2023-10-04 15-58-37](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/216502d7-4f72-4a69-9e2c-2c9aab235fee)
 
-![Captura de pantalla de 2023-10-04 15-47-32](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/74105adc-dee9-46a6-8f83-d5697baaa8ed)
+![Captura de pantalla de 2023-10-04 15-58-58](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/0d91d75d-51ee-43b9-b811-9756cab72f51)
 
+![Captura de pantalla de 2023-10-04 15-59-33](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/0b71ab12-1300-4c42-ad7e-01842f411cf0)
 
-Sin embargo, debido a problemas con la ubicacion del .git vamos a cambiar de directorio, copiando todas las carpetas y archivos a un nuevo directorio.
+![Captura de pantalla de 2023-10-04 16-11-34](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/9305b4cd-ce4c-4c2e-885f-c6f523516b13)
 
+![Captura de pantalla de 2023-10-04 16-11-55](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/9d4a02c3-3c84-4ccd-acec-4ff2721ef56a)
 
-![Captura de pantalla de 2023-10-04 15-57-17](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/d0bf8c5f-9840-47d6-a557-09f6960726a2)
+![Captura de pantalla de 2023-10-04 16-12-13](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/f25077c8-12b1-41fc-bfe2-b395995a5082)
 
-![Captura de pantalla de 2023-10-04 15-57-28](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/3d6082d6-5d40-4f3d-a8dc-90d92c11a71b)
+![Captura de pantalla de 2023-10-04 16-12-28](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/be87b63e-22aa-4aae-af1b-7e6f720e8f17)
 
-![Captura de pantalla de 2023-10-04 15-58-05](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/9a94ce68-5949-415e-b5ae-56ba7d7486f6)
+![Captura de pantalla de 2023-10-04 16-12-53](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/b38f83ca-4a37-4976-9bf5-57c0059478b2)
 
+![Captura de pantalla de 2023-10-04 16-16-41](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/3a812031-db3f-4bfe-9b2e-7860aef06db1)
 
+![Captura de pantalla de 2023-10-04 16-17-01](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/3c2726b0-36cc-4202-872a-9d93f8ae511a)
 
+![Captura de pantalla de 2023-10-04 16-18-29](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/50f3b789-6393-4664-b8b6-c0c9c724894d)
 
-![Captura de pantalla de 2023-10-04 15-58-37](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/d0bb8511-a191-497c-a00a-badcb16a570a)
+![Captura de pantalla de 2023-10-04 16-18-49](https://github.com/miguelvega/PC1_Actividades_CC3S2/assets/124398378/4ffd9e19-512f-4648-b8a4-0ae7ab48e93c)
 
-![Captura de pantalla de 2023-10-04 15-58-58](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/567159aa-2b26-4551-82c9-ccc4db14a381)
-
-![Captura de pantalla de 2023-10-04 15-59-33](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/89158b65-a4c1-46f1-83a3-9615060554f9)
-
-
-
-![Captura de pantalla de 2023-10-04 16-11-34](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/8e5a3d23-fcee-440c-8210-8e5083b51a1b)
-
-![Captura de pantalla de 2023-10-04 16-11-55](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/658e6ba9-dbe0-4f89-b9a7-07457694cb0d)
-
-![Captura de pantalla de 2023-10-04 16-12-13](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/c35433f6-b712-4cf0-a273-dbfc76bca9d8)
-
-
-
-![Captura de pantalla de 2023-10-04 16-12-28](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/f49634ed-8249-40a5-a49d-c77d7e0b59c1)
-
-![Captura de pantalla de 2023-10-04 16-12-53](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/826e58c8-1cd4-4279-bc80-5dda809ed9cc)
-
-![Captura de pantalla de 2023-10-04 16-16-41](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/62348cb7-58c3-4edf-87e5-af3627100432)
-
-
-
-
-![Captura de pantalla de 2023-10-04 16-17-01](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/8c4532d9-1944-41a6-aa3a-9dcefbc9c439)
-
-![Captura de pantalla de 2023-10-04 16-18-29](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/a380574d-fa55-47f9-9adb-dc32460ff990)
-
-![Captura de pantalla de 2023-10-04 16-18-49](https://github.com/miguelvega/Actividades_Evaluaciones_CC3S2/assets/124398378/3bb203a6-fe9d-40b1-968f-1b43b5549e05)
 
 A pesar que me sale las siguientes advertencias, ahora si podemos desplegar nuestra aplicacion
 
